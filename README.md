@@ -7,7 +7,7 @@ Para a criação do banco foi utilizado a linguagem de programação MySQL, usam
 
 ### 📜 MODELO UTILIZADO
 
-![MODELO USADO ](./Img/imgUmlIphone.png)
+![MODELO USADO ](./Img/ModeloConceitualProjeto.png)
 
 ## 💻 CODIGO USADO
 
