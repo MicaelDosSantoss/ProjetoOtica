@@ -3,7 +3,7 @@
 
 ## PROJETO ÓTICAS FABY
 
-Para a criação do banco foi utilizado a linguagem de programação MySQL, usamos também para colocar em ambiente de teste para fazer as alterações e utlizar ele como teste em nossa API.
+A criação do banco de dados foi realizada utilizando a linguagem de programação MySQL. Também o configuramos em um ambiente de teste, permitindo realizar alterações e utilizá-lo para testar nossa API.
 
 ### 📜 MODELO UTILIZADO
 
@@ -72,3 +72,6 @@ Para a criação do banco foi utilizado a linguagem de programação MySQL, usam
 ---
 
 ## O QUE FOI UTILIZADO 🤔
+
+![MODELO USADO ](./Img/images__1_-removebg-preview.png) ![MODELO USADO ](./Img/xampp-2MM13M-removebg-preview.png) 
+
