@@ -7,7 +7,7 @@ A criação do banco de dados foi realizada utilizando a linguagem de programaç
 
 ### 📜 MODELO UTILIZADO
 
-![MODELO USADO ](./Img/ModeloConceitualProjeto.png)
+![MODELO USADO](./Img/ModeloConceitualProjeto.png)
 
 ## 💻 CODIGO USADO
 
@@ -73,5 +73,5 @@ A criação do banco de dados foi realizada utilizando a linguagem de programaç
 
 ## O QUE FOI UTILIZADO 🤔
 
-![MODELO USADO ](./Img/images__1_-removebg-preview.png) ![MODELO USADO ](./Img/xampp-2MM13M-removebg-preview.png) 
+![MODELO USADO](./Img/images__1_-removebg-preview.png) ![MODELO USADO](./Img/xampp-2MM13M-removebg-preview.png) 
 
